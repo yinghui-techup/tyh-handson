@@ -2,8 +2,8 @@ var age = 20
 age = 65
 console.log(age)
 
-var username = "preshant"
-var password = "techup"
+var username = "tyh"
+var password = "techup123"
 
 var isMale = false
 var isLoggedIn = false
